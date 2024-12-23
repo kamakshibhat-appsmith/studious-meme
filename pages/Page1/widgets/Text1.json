@@ -1,7 +1,7 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 102,
+  "bottomRow": 127,
   "dynamicBindingPathList": [
     {
       "key": "truncateButtonColor"
@@ -43,7 +43,7 @@
   "text": "<ol>\n  <li>Coffee11111</li>\n  <li>Tea111</li>\n  <li>Milx11k1</li>\n</ol>\n<ol start=\"50\">\n  <li>Coffee1</li>\n  <li>Tea1</li>\n  <li>Milk1</li>\n</ol>",
   "textAlign": "LEFT",
   "textColor": "#231F20",
-  "topRow": 60,
+  "topRow": 85,
   "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
   "type": "TEXT_WIDGET",
   "version": 1,

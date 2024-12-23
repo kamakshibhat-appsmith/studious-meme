@@ -3,7 +3,7 @@
   "animateLoading": true,
   "autoFocus": false,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 60,
+  "bottomRow": 85,
   "boxShadow": "none",
   "defaultText": "<ol>\n  <li>Coffee11111</li>\n  <li>Tea111</li>\n  <li>Milx11k1</li>\n</ol>\n<ol start=\"50\">\n  <li>Coffee1</li>\n  <li>Tea1</li>\n  <li>Milk1</li>\n</ol>",
   "dynamicBindingPathList": [
@@ -49,7 +49,7 @@
   "rightColumn": 29,
   "shouldAllowAutofill": false,
   "showStepArrows": false,
-  "topRow": 33,
+  "topRow": 58,
   "type": "INPUT_WIDGET_V2",
   "version": 2,
   "widgetId": "kaq3pw866c",
